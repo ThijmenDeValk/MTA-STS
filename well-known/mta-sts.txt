@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: mx1.smtp.goog
 mx: mx2.smtp.goog
 mx: mx3.smtp.goog
